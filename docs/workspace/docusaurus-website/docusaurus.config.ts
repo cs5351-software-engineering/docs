@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://cwksc.github.io/',
+  url: 'https://cs5351-software-engineering.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/cs5351-codebase-analysis/',
@@ -16,7 +16,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'cwksc', // Usually your GitHub org/user name.
+  organizationName: 'cs5351-software-engineering', // Usually your GitHub org/user name.
   projectName: 'cs5351-codebase-analysis', // Usually your repo name.
 
   onBrokenLinks: 'warn',
