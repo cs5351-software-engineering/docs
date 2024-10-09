@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://cs5351-software-engineering.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/cs5351-codebase-analysis/',
+  baseUrl: '/docs/',
   // baseUrl : '/',
 
   // GitHub pages deployment config.
